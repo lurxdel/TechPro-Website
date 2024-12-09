@@ -1,8 +1,10 @@
 # TechPro Website
 
 ### Strictly For Education Purpose Only
+This was developed for our coursework
 
 ### Visit Website Here
+https://lurxdel.github.io/TechPro-Website/
 
 ## Support Me
 If you like my work or find it helpful, you can support me by:
