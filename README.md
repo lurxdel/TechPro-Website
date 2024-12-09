@@ -1,8 +1,8 @@
 # TechPro Website
 
-## Strictly For Education Purpose Only
+### Strictly For Education Purpose Only
 
-## Visit Website Here
+### Visit Website Here
 
 ## Support Me
 If you like my work or find it helpful, you can support me by:
